@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #87A922;
+    color: #fff;
+}
+h1{
+    font-family: "Ojuju", sans-serif;
+}
+
+.img-logo{
+    height: 50px !important;
+    width: 50px !important;
+    border-radius: 50%;
+}
+
+.navbar{
+    background-color: #fff !important;
+}
+
+
+.about .container{
+
+}
+
+
+.about p{
+    font-size: 20px !important;
+}
+
+.about button{
+    width: 100px;
+}
+
+.accordion .accordion-item {
+    background-color: #87A922 !important;
+    color: white;
+}
+.accordion .accordion-header button {
+    background-color: #87A922 !important;
+    color: white;
+}
+
+.about img{
+    height: 700px !important;
+}
+
+.services .second{
+    background-color: #87A922;
+    color: white;
+}
+
+.services .row .card a{
+    background-color: #87A922 !important;
+}
+
+.services .card .secondbtn{
+    background-color: green !important;
+}
+
+.team img{
+    height: 200px;
+    width: 200px;
+    border: 2px solid #87A922;
+    padding: 10px;
+}
+
+.team a{
+    background-color: #87A922;
+    color: white;
+    width: 150px;
+}
+
+.connect{
+    background-color: #fff;
+    color: #87A922;
+}
+
+.connect img{
+    height: 500px;
+}
